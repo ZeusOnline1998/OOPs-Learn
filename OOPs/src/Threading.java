@@ -19,7 +19,7 @@ class YourThread implements Runnable{
 public class Threading {
 
 	public static void main(String[] args) {
-		MyThread m = new MyThread();
+//		MyThread m = new MyThread();
 		
 //		Runnable r = new YourThread();
 //		Thread task = new Thread(new YourThread());
