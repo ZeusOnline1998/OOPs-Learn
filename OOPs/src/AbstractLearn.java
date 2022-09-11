@@ -5,7 +5,7 @@ public class AbstractLearn {
 
 	public static void main(String[] args) {
 		
-		Phone1 obj = new Phone3();
+		Phone3 obj = new Phone3();
 		
 		obj.call();
 		obj.sms();
